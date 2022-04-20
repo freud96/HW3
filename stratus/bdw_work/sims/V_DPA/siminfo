@@ -1,0 +1,5 @@
+bdw_work/sims/top_V_DPA.v
+bdw_work/wrappers/GaussianFilter_cosim.v
+bdw_work/modules/GaussianFilter/DPA/GaussianFilter_rtl.v
+bdw_work/modules/GaussianFilter/DPA/v_rtl/GaussianFilter_ROM_9X32_mask.v
+

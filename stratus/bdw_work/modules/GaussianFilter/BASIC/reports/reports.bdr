@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<report_catalogue>
+	<report_file>
+		<report_def>
+			<name>scheduler</name>
+			<summary>Reports all of the operations scheduled in each thread.</summary>
+			<unprintable/>
+			<node_kind>hls_config</node_kind>
+		</report_def>
+		<name>scheduler</name>
+		<object>hls_config:stratus/GaussianFilter/BASIC</object>
+		<silent/>
+		<time>Thu Apr 14 13:43:30 2022</time>
+		<hostname>ws45</hostname>
+		<user>m1100614</user>
+		<version>19.12-s100</version>
+	</report_file>
+</report_catalogue>

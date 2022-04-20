@@ -1,0 +1,12 @@
+30347
+30351
+ws45
+bdw_work/trace/hls.GaussianFilter.BASIC.s.trace
+2
+0
+0
+0
+1649914930
+1649915011
+/usr/cadtool/cadence/STRATUS/cur/bin/stratus_hls --logfile=stratus_hls.log -I. -Ibdw_work/wrappers -I/usr/cadtool/cadence/STRATUS/cur/share/stratus/include --tl=/usr/cadtool/cadence/STRATUS/cur/share/stratus/techlibs/GPDK045/gsclib045_svt_v4.4/gsclib045/timing/slow_vdd1v2_basicCells.lib --clock_period=10.000 --message_detail=3 -DBASIC=1 -DBDW_RTL_GaussianFilter_BASIC=1 -d bdw_work/modules/GaussianFilter/BASIC -o GaussianFilter_rtl.cpp --hls_module=GaussianFilter --hls_config=BASIC --project=project.tcl ../GaussianFilter.cpp
+
