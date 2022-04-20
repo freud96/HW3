@@ -1,8 +1,15 @@
-# Sobel Edge Detector
+# Gaussian Edge Detector
+
+
+
+To compile, systemC simulation
 
 ## SystemC Simulation
 
 - make run
+
+
+To compile, HLS synthesis
 
 ## Stratus
 
